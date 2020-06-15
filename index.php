@@ -11,7 +11,7 @@ print `ifconfig`;
 
 ?>
  <h1>Image </h1> 
-  <img src="https://d3qeb7u6kw3nht.cloudfront.net/check.jpg">
+  <img src="https://d2zun0sff9446c.cloudfront.net/check.jpg">
   
 </pre>
  
